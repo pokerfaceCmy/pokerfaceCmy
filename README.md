@@ -5,7 +5,7 @@
 ## ⚡ Technologies
 
 
-Lanuage  
+#Lanuage  
 ![Java](https://img.shields.io/badge/-Java-black?style=flat-square&logo=Java)
 ![Kotlin](https://img.shields.io/badge/-Kotlin-black?style=flat-square&logo=Kotlin)
 ![flutter](https://img.shields.io/badge/-flutter-black?style=flat-square&logo=flutter)
