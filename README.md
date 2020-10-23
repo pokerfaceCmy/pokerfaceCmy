@@ -34,7 +34,7 @@ pokerfaceCmy : Info {
 
 Lanuage  
 ![Java](https://img.shields.io/badge/-Java-black?style=flat-square&logo=Java)
-![Kotlin](https://img.shields.io/badge/-Go-black?style=flat-square&logo=Kotlin)
+![Kotlin](https://img.shields.io/badge/-Kotlin-black?style=flat-square&logo=Kotlin)
 
 
 Framework  
