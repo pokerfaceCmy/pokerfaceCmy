@@ -2,24 +2,7 @@
 
 <img align="right" src="https://github-stat.alpaca.run/api?username=pokerfaceCmy&show_icons=true&include_all_commits=true&line_height=35"/>
 
-
-
-### 💼**Web Full Stack Developer**  
-👇 Hit in your terminal to connect with me.
-```bash
-npx alpaca-bi
-```
-👇 If you use [**Deno**](https://deno.land)🦕, you also can 
-```bash
-deno run https://cdn.alpaca.run/AlpacaBi.js
-```
-
-<details>
- <summary><b>More...</b></summary>  
-    
-## 😎 A little more about me...  
-
-```
+``` kotlin
 pokerfaceCmy : Info {
     Name: "pokerfaceCmy",
     Age: 26,
@@ -51,7 +34,6 @@ Tools
 ![AndroidStudio](https://img.shields.io/badge/-AndroidStudio-black?style=flat-square&logo=AndroidStudio)
 ![Postman](https://img.shields.io/badge/-Postman-black?style=flat-square&logo=Postman)
 ![slack](https://img.shields.io/badge/-slack-black?style=flat-square&logo=slack)
-
 
 </details>
 
