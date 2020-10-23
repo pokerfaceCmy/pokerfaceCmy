@@ -33,11 +33,8 @@ pokerfaceCmy : Info {
 <img align="right" width="270" src="https://cdn.alpaca.run/alpaca.gif">
 
 Lanuage  
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![Go](https://img.shields.io/badge/-Go-black?style=flat-square&logo=Go)
-![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
-![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript)
-![Rust](https://img.shields.io/badge/-Rust-000000?style=flat-square&logo=Rust)
+![Java](https://img.shields.io/badge/-Java-black?style=flat-square&logo=Java)
+![Kotlin](https://img.shields.io/badge/-Go-black?style=flat-square&logo=Kotlin)
 
 
 Framework  
